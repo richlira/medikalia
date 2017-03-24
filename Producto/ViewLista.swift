@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewLista: UIViewController {
-
+    let lista = ["Dientes", "Garganta", "Huevos"]
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -33,3 +33,7 @@ class ViewLista: UIViewController {
     */
 
 }
+
+
+
+
